@@ -5,5 +5,4 @@ class Message(BaseModel):
 
 class BotResponse(BaseModel):
     response: str
-    matched_keywords: list[str]
-    score: int
+    score: float
