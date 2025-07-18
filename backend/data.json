@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "keywords": ["precio", "costo", "tarifa", "valor", "monto"],
+    "response": "Nuestros precios varían según el servicio."
+  },
+  {
+    "id": 2,
+    "keywords": ["horario", "abre", "cierra", "hora", "abierto", "cerrado"],
+    "response": "Nuestro horario es de lunes a viernes de 8 a.m. a 5 p.m."
+  },
+  {
+    "id": 3,
+    "keywords": ["ubicación", "dirección", "dónde", "local", "mapa", "maps"],
+    "response": "Estamos ubicados en San José centro, cerca del parque central."
+  },
+  {
+    "id": 4,
+    "keywords": ["servicio", "ofrecen", "tienen", "productos", "hacen", "es"],
+    "response": "Ofrecemos soluciones digitales personalizadas en la nube, integraciones y más."
+  },
+  {
+    "id": 5,
+    "keywords": ["problema", "soporte", "error", "ayuda"],
+    "response": "Nuestro equipo de soporte está listo para ayudarte. ¿Cuál es el inconveniente?"
+  },
+  {
+    "id": 6,
+    "keywords": ["contacto", "teléfono", "correo", "email"],
+    "response": "Puedes contactarnos al ####-#### o escribirnos a soporte@psytricks.com."
+  },
+  {
+    "id": 7,
+    "keywords": ["factura", "comprobante", "recibo", "pago"],
+    "response": "Las facturas se envían automáticamente por correo tras cada pago."
+  },
+  {
+    "id": 8,
+    "keywords": ["contratar", "comprar", "empezar", "interesado", "quiero", "servicios", "cuanto"],
+    "response": "¡Excelente! Podemos agendar una llamada o enviarte una propuesta personalizada."
+  },
+  {
+    "id": 9,
+    "keywords": ["cancelar", "baja", "terminar", "anular"],
+    "response": "Lamentamos que quieras irte. Podemos ayudarte con el proceso de cancelación."
+  },
+  {
+    "id": 10,
+    "keywords": ["tiempo", "tarda", "demora", "entrega", "duración", "cuanto"],
+    "response": "El tiempo de entrega depende del proyecto. Por lo general, entre 5 y 10 días hábiles."
+  }
+]
